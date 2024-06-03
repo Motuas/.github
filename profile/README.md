@@ -1,4 +1,4 @@
 # welcome to motuas!
 
-![Logo](logo.avif)
+![Logo](logo_motuas.png)
 
